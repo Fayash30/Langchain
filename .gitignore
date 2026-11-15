@@ -9,3 +9,5 @@ wheels/
 # Virtual environments
 .venv
 .env
+new_venv/
+.venv_old/
