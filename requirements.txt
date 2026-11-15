@@ -7,3 +7,4 @@ langchain-google-genai
 langchain-google-vertexai
 ipykernel
 pydantic
+langgraph-checkpoint
